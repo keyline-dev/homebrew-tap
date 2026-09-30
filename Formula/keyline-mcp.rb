@@ -1,6 +1,6 @@
 # Updated by keyline's release workflow (keyline-dev/keyline); don't edit by hand.
 class KeylineMcp < Formula
-  desc "AI-native design engine: agents design over MCP, keyline renders every size"
+  desc "Design engine for AI agents: images and video at every size, no Chrome needed"
   homepage "https://keyline.dev"
   url "https://github.com/keyline-dev/keyline/releases/download/v0.5.0/keyline-mcp-v0.5.0-macos-arm64.tar.gz"
   version "0.5.0"
