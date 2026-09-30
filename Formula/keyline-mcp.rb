@@ -2,9 +2,9 @@
 class KeylineMcp < Formula
   desc "Design engine for AI agents: images and video at every size, no Chrome needed"
   homepage "https://keyline.dev"
-  url "https://github.com/keyline-dev/keyline/releases/download/v0.5.0/keyline-mcp-v0.5.0-macos-arm64.tar.gz"
-  version "0.5.0"
-  sha256 "6d926ce7f8628aa3323d2fee74fc333cc59d23bcf867eb2035c613d880d0be21"
+  url "https://github.com/keyline-dev/keyline/releases/download/v0.6.0/keyline-mcp-v0.6.0-macos-arm64.tar.gz"
+  version "0.6.0"
+  sha256 "71bbedab8a704a7255d46fa4675b7179413fe27a109c2558c91410da94428240"
   license :cannot_represent
 
   depends_on arch: :arm64
