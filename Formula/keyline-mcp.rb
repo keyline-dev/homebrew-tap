@@ -2,9 +2,9 @@
 class KeylineMcp < Formula
   desc "AI-native design engine: agents design over MCP, keyline renders every size"
   homepage "https://keyline.dev"
-  url "https://github.com/keyline-dev/keyline/releases/download/v0.4.1/keyline-mcp-v0.4.1-macos-arm64.tar.gz"
-  version "0.4.1"
-  sha256 "666683881713cd8cb8ac82ccdbfc5881bf69a73c5664ae1e91b70a1db4f63195"
+  url "https://github.com/keyline-dev/keyline/releases/download/v0.5.0/keyline-mcp-v0.5.0-macos-arm64.tar.gz"
+  version "0.5.0"
+  sha256 "6d926ce7f8628aa3323d2fee74fc333cc59d23bcf867eb2035c613d880d0be21"
   license :cannot_represent
 
   depends_on arch: :arm64
